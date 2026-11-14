@@ -4,7 +4,8 @@ Machine Learning Tutorials
 Pandas,
 Numpy,
 Matplotlib,
-Scipy.
+Scipy,
+FastAPI.
 
 Linear Regression,
 Logistic Regression,
